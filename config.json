@@ -1,0 +1,9 @@
+{
+  "base_url": "https://books.toscrape.com/",
+  "user_agent": "BooksPracticeSample/1.0",
+  "request_interval_seconds": 1.1,
+  "timeout_seconds": 30,
+  "max_retries": 3,
+  "backoff_seconds": 2,
+  "output_dir": "output"
+}
